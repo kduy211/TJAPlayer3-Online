@@ -1,5 +1,5 @@
 # taiko-web
-A web-based Taiko no Tatsujin simulator.
+A web-based Taiko no Tatsujin simulator.  Made by Bui
 
 Running instance: [https://taiko.bui.pm](https://taiko.bui.pm)
 
